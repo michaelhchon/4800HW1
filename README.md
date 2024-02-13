@@ -1,6 +1,6 @@
 # HW1
 
-Michael Chon
+Michael Chon  
 CS4800 - Nima Davarpanah
 
 ## About
