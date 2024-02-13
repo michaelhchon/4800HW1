@@ -1,7 +1,7 @@
 # HW1
 
 Michael Chon
-CS4800 - Nima Davarpanah
+\nCS4800 - Nima Davarpanah
 
 ## About
 
@@ -13,7 +13,8 @@ Inheritance
 - EmployeeDriver.java
 
 Polymorphism
--
+- Ship.java
+- ShipDriver.java
 
 Aggregation
 -
